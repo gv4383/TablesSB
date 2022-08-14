@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Amazon Echo",
+    "category": "Voice",
+    "description": "Amazon Echo is a hands-free speaker you control with your voice. Echo connects to the Alexa Voice Service to play music, provide information, news, sports scores, weather, and more—instantly. All you have to do is ask."
+  },
+  {
+    "id": 2,
+    "name": "August Doorbell",
+    "category": "Doorbell",
+    "description": "Always know who's at the front door, even when you're not home. See and speak with visitors using your smartphone."
+  },
+  {
+    "id": 3,
+    "name": "Awair",
+    "category": "Air Quality",
+    "description": "Do you know what's in the air you're breathing? Truth is, indoor air can be 5x more polluted than outside, affecting allergies, asthma, eczema, sleep, and much more. Awair tracks toxins in your air and gives you recommendations to help you keep it clean and safe. Awair gives you the knowledge you need to improve your indoor environment and take control."
+  },
+  {
+    "id": 4,
+    "name": "Belkin WeMo",
+    "category": "AC Plug",
+    "description": "Did you forget to turn off the window A.C.? How about that curling iron? Want the living room lamp to turn on when the sun goes down—automatically? The Wemo Switch gives you control of your lamps and small appliances whenever you want, wherever you choose, with tons of options for scheduling and automation. "
+  },
+  {
+    "id": 5,
+    "name": "Nest Thermostat",
+    "category": "Thermostat",
+    "description": "The Nest Learning Thermostat programs itself and automatically helps save energy when you’re away. And you can control it using your phone, tablet or laptop."
+  },
+  {
+    "id": 6,
+    "name": "Ecobee 3",
+    "category": "Thermostat",
+    "description": "Ordinary thermostats only read the temperature in one room, but are supposed to deliver comfort in all rooms. Ecobee3 remote sensors deliver the right temperature in the rooms that matter most. Now homekit enabled. Ecobee3 sensors know which rooms are occupied to deliver the right temperature in the right places."
+  }
+]
