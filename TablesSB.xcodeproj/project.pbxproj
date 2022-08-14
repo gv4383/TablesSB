@@ -14,6 +14,8 @@
 		B98AC5EE28A9516200038E1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98AC5ED28A9516200038E1F /* Assets.xcassets */; };
 		B98AC5F128A9516200038E1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B98AC5EF28A9516200038E1F /* LaunchScreen.storyboard */; };
 		B98AC5F928A954D200038E1F /* iot_devices.json in Resources */ = {isa = PBXBuildFile; fileRef = B98AC5F828A954D200038E1F /* iot_devices.json */; };
+		B98AC5FD28A955D200038E1F /* DeviceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98AC5FC28A955D200038E1F /* DeviceCell.swift */; };
+		B98AC5FF28A959B100038E1F /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98AC5FE28A959B100038E1F /* Device.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		B98AC5F028A9516200038E1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B98AC5F228A9516200038E1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B98AC5F828A954D200038E1F /* iot_devices.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = iot_devices.json; sourceTree = "<group>"; };
+		B98AC5FC28A955D200038E1F /* DeviceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceCell.swift; sourceTree = "<group>"; };
+		B98AC5FE28A959B100038E1F /* Device.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 			children = (
 				B98AC5E428A9515F00038E1F /* AppDelegate.swift */,
 				B98AC5E628A9515F00038E1F /* SceneDelegate.swift */,
+				B98AC5FE28A959B100038E1F /* Device.swift */,
+				B98AC5FC28A955D200038E1F /* DeviceCell.swift */,
 				B98AC5E828A9515F00038E1F /* ViewController.swift */,
 				B98AC5EA28A9515F00038E1F /* Main.storyboard */,
 				B98AC5ED28A9516200038E1F /* Assets.xcassets */,
@@ -145,6 +151,8 @@
 				B98AC5E928A9515F00038E1F /* ViewController.swift in Sources */,
 				B98AC5E528A9515F00038E1F /* AppDelegate.swift in Sources */,
 				B98AC5E728A9515F00038E1F /* SceneDelegate.swift in Sources */,
+				B98AC5FD28A955D200038E1F /* DeviceCell.swift in Sources */,
+				B98AC5FF28A959B100038E1F /* Device.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
