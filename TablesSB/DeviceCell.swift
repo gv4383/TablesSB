@@ -8,5 +8,9 @@
 import UIKit
 
 class DeviceCell: UITableViewCell {
+    @IBOutlet weak var deviceLabel: UILabel!
     
+    func set(device: Device) {
+        deviceLabel.text = device.name
+    }
 }
